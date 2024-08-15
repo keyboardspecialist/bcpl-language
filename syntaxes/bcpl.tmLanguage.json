@@ -41,7 +41,7 @@
         "keywords": {
             "patterns": [{
                 "name": "keyword.control.bcpl",
-                "match": "\\b(?i:section|default|table|manifest|static|global|get|switchon|case|endcase|into|let|and|if|unless|while|until|test|then|else|be|do|for|to|by|repeat|repeatwhile|repeatuntil|return|valof|resultis|loop|break|goto|next|match|every|exit)\\b"
+                "match": "\\b(?i:section|default|break|table|manifest|static|global|get|switchon|case|endcase|into|let|and|if|unless|while|until|test|then|else|be|do|for|to|by|repeat|repeatwhile|repeatuntil|return|valof|resultis|loop|break|goto|next|match|every|exit)\\b"
             }]
         },
         "strings": {
