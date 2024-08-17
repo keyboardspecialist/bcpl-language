@@ -94,7 +94,7 @@
             "patterns": [
                 {
                     "name": "keyword.operator.word.bcpl",
-                    "match": "\\b(?i:vec|float|flt|slct|not|mod|abs|eqv|xor)\\b"
+                    "match": "\\b(?i:fix|vec|float|flt|slct|not|mod|abs|eqv|xor)\\b"
                 },
                 {
                     "name": "keyword.operator.symbolic.bcpl",

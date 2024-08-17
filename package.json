@@ -2,7 +2,7 @@
   "name": "bcpl-language",
   "displayName": "BCPL Language",
   "description": "Language support for BCPL",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "engines": {
     "vscode": "^1.92.0"
   },
